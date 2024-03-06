@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.201.133.218:9980/mithuntechnologies/repository/mssnodejsrepo/"
+    "registry": "http://43.205.203.120:8081/repository/css-nodejs-repo/"
   },
   
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://13.212.29.25:9980/mithuntechnologies/repository/nodejsproject/"
+    "url": "https://github.com/NavachethanG/nodejs-app-mss.git"
   },
   "keywords": [
     "node",
